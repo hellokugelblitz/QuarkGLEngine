@@ -6,6 +6,8 @@ A 2D platformer game engine built in C++ using OpenGL for rendering and QuarkPhy
 
 QuarkGLEngine is a custom game engine designed for creating 2D platformer games. It combines OpenGL-based graphics rendering with the QuarkPhysics physics engine to provide collision detection, rigid body dynamics, and platformer-specific physics behaviors.
 
+**It is currently unfinished and mostly for learning and practice.**
+
 ## Features
 
 - **OpenGL Rendering**: Hardware-accelerated 2D graphics using OpenGL with GLFW window management
@@ -123,9 +125,7 @@ Shader program management:
 - Handles shader binding and validation
 
 ### Light
-Lighting objects for dynamic scene illumination:
-- Positioned lights with configurable properties
-- Affects rendered scene through shader uniforms
+Not finished
 
 ### TextureCache
 Texture resource caching:
