@@ -1,0 +1,5 @@
+/home/jack/Desktop/ComputerGraphics/glfwWindowControl/build/CMakeFiles/glad.dir
+/home/jack/Desktop/ComputerGraphics/glfwWindowControl/build/CMakeFiles/quark.dir
+/home/jack/Desktop/ComputerGraphics/glfwWindowControl/build/CMakeFiles/Game.dir
+/home/jack/Desktop/ComputerGraphics/glfwWindowControl/build/CMakeFiles/edit_cache.dir
+/home/jack/Desktop/ComputerGraphics/glfwWindowControl/build/CMakeFiles/rebuild_cache.dir
